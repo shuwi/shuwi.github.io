@@ -38,7 +38,7 @@ links:
   - title: 所有文章
     url: /articles/
   
-    external: true
+    external: false
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
