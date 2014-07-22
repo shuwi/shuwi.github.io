@@ -31,18 +31,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 关于
     url: /about/
-  - title: Articles
+  - title: 所有文章
     url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://shuwi.github.io/
+  
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
