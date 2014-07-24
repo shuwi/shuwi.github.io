@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "什么是\"对用户友好\"？"
-tagline: "A bunch of hipster ipsum for ya head."
-description: "A ton of text to test readability."
+tagline: "用户体验"
+description: "来自王垠博客."
 category: articles
 tags: [sample post, readability, test]
 ---
