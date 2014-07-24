@@ -6,7 +6,7 @@ description: "来自王垠博客."
 category: articles
 tags: [sample post, readability, test]
 image:
-  feature: texture-feature-02.jpg
+  feature: KY-Nailing-Machine.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
