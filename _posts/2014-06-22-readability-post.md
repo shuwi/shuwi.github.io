@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
+title: "什么是\"对用户友好\"？"
 tagline: "A bunch of hipster ipsum for ya head."
 description: "A ton of text to test readability."
 category: articles
